@@ -73,3 +73,35 @@ def fetch_eightfold_pcsx(company, key, limit=50):
 
 EXTRA = {"amazon": fetch_amazon, "google": fetch_google, "apple": fetch_apple,
          "oracle_hcm": fetch_oracle_hcm, "eightfold_pcsx": fetch_eightfold_pcsx}
+
+def fetch_phenom(company, key, limit=50):
+    """Phenom career sites. key = host or URL, e.g. 'careers.adobe.com' or 'https://careers.adobe.com/us/en'."""
+    import urllib.parse as up
+    k = key if key.startswith("http") else "https://" + key
+    u = up.urlparse(k)
+    path = u.path.rstrip("/")
+    if "/search-results" in path:
+        path = path.split("/search-results")[0]
+    base = f"{u.scheme}://{u.netloc}"
+    if not re.match(r"^/[a-z]{2}/[a-z]{2}$", path or ""):
+        final, h = http(base + "/")      # discover the locale path (/us/en, /global/en …)
+        m = re.search(r"https?://[^/]+(/[a-z]{2,6}/[a-z]{2})(?:/|$)", final) or re.search(r'href="(/[a-z]{2,6}/[a-z]{2})/search-results', h)
+        path = m.group(1) if m else "/us/en"
+    n = 0
+    for start in range(0, limit, 10):
+        _, h = http(f"{base}{path}/search-results?from={start}&s=1")
+        i = h.find('"eagerLoadRefineSearch":')
+        if i < 0: break
+        obj, _ = json.JSONDecoder().raw_decode(h[i + len('"eagerLoadRefineSearch":'):])
+        jobs = ((obj or {}).get("data") or {}).get("jobs") or []
+        if not jobs: break
+        for x in jobs:
+            desc = (x.get("descriptionTeaser") or "") + " " + " ".join(x.get("ml_skills") or [])
+            loc = x.get("cityStateCountry") or x.get("location") or ""
+            more = len(x.get("multi_location") or []) - 1
+            yield job(company, x.get("title"), loc + (f" +{more} more" if more > 0 else ""),
+                      x.get("jobUrl") or f"{base}{path}/job/{x.get('jobId')}", x.get("postedDate"), desc, "phenom")
+            n += 1
+            if n >= limit: return
+
+EXTRA["phenom"] = fetch_phenom
