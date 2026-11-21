@@ -384,33 +384,33 @@ Metro AG,retail,,,,,,,Retail & E-commerce,
 REWE Group,retail,,,,,,,Retail & E-commerce,
 Edeka,retail,,,,,,,Retail & E-commerce,
 IKEA,retail,,https://jobs.ikea.com,,,,,Retail & E-commerce,unknown
-Inditex,retail,,https://inditexcareers.com,,,,,Retail & E-commerce,
-H&M,retail,,https://career.hm.com,,,,,Retail & E-commerce,
+Inditex,retail,,https://inditexcareers.com,,,,,Retail & E-commerce,unknown
+H&M,retail,,https://career.hm.com,,,,,Retail & E-commerce,unknown
 Zara,retail,,,,,,,Retail & E-commerce,
-Target,retail,,https://corporate.target.com/careers,,,,,Retail & E-commerce,
-Home Depot,retail,,https://careers.homedepot.com,,,,,Retail & E-commerce,
+Target,retail,,https://corporate.target.com/careers,workday,target|wd5|targetcareers,,,Retail & E-commerce,workday
+Home Depot,retail,,https://careers.homedepot.com,workday,homedepot|wd5|CareerDepot,,,Retail & E-commerce,workday
 Lowe's,retail,,,,,,,Retail & E-commerce,
 JD.com,retail,,,,,,,Retail & E-commerce,
 eBay,retail,,,,,,,Retail & E-commerce,
 Rakuten,retail,,,,,,,Retail & E-commerce,
-Nike,retail,,https://careers.nike.com,,,,,Retail & E-commerce,
-Adidas,retail,,https://careers.adidas-group.com,,,,,Retail & E-commerce,
+Nike,retail,,https://careers.nike.com,workday,nike|wd1|nke,,,Retail & E-commerce,workday
+Adidas,retail,,https://careers.adidas-group.com,,,,,Retail & E-commerce,unknown
 Decathlon,retail,,,,,,,Retail & E-commerce,
-Deutsche Telekom,tel,,https://careers.telekom.com,,,,,Telecommunications,
-Vodafone,tel,,https://careers.vodafone.com,,,,,Telecommunications,
-Orange,tel,,https://orange.jobs,,,,,Telecommunications,
-Telefonica,tel,,https://jobs.telefonica.com,,,,,Telecommunications,
+Deutsche Telekom,tel,,https://careers.telekom.com,eightfold,telekom-growthhub.eightfold.ai,,,Telecommunications,eightfold
+Vodafone,tel,,https://careers.vodafone.com,eightfold,vodafone-qa-sandbox.eightfold.ai,,,Telecommunications,eightfold
+Orange,tel,,https://orange.jobs,phenom,cdn.phenompeople.com,,,Telecommunications,phenom
+Telefonica,tel,,https://jobs.telefonica.com,successfactors,jobs.telefonica.com,,,Telecommunications,successfactors
 BT Group,tel,,,,,,,Telecommunications,
-Verizon,tel,,https://www.verizon.com/about/careers,,,,,Telecommunications,
-AT&T,tel,,https://att.jobs,,,,,Telecommunications,
+Verizon,tel,,https://www.verizon.com/about/careers,,,,,Telecommunications,unknown
+AT&T,tel,,https://att.jobs,workday,att|wd1|ATTGeneral,,,Telecommunications,workday
 T-Mobile US,tel,,,,,,,Telecommunications,
 Swisscom,tel,,,,,,,Telecommunications,
 Telecom Italia,tel,,,,,,,Telecommunications,
 KPN,tel,,,,,,,Telecommunications,
 Telia,tel,,,,,,,Telecommunications,
 Telenor,tel,,,,,,,Telecommunications,
-Ericsson,tel,,https://jobs.ericsson.com,,,,,Telecommunications,
-Nokia,tel,,https://careers.nokia.com,,,,,Telecommunications,
+Ericsson,tel,,https://jobs.ericsson.com,eightfold,app.eightfold.ai,,,Telecommunications,eightfold
+Nokia,tel,,https://careers.nokia.com,oracle_hcm,fa-evmr-saasfaprod1,,,Telecommunications,oracle_hcm
 Huawei,tel,,,,,,,Telecommunications,
 ZTE,tel,,,,,,,Telecommunications,
 Samsung Networks,tel,,,,,,,Telecommunications,
@@ -420,24 +420,24 @@ China Mobile,tel,,,,,,,Telecommunications,
 SK Telecom,tel,,,,,,,Telecommunications,
 NTT,tel,,,,,,,Telecommunications,
 A1 Telekom,tel,,,,,,,Telecommunications,
-Siemens,mach,,https://jobs.siemens.com,,,,,Industrial Machinery & Manufacturing,
-ABB,mach,,https://careers.abb,,,,,Industrial Machinery & Manufacturing,
+Siemens,mach,,https://jobs.siemens.com,,,,,Industrial Machinery & Manufacturing,unknown
+ABB,mach,,https://careers.abb,phenom,cdn.phenompeople.com,,,Industrial Machinery & Manufacturing,phenom
 Mitsubishi Electric,mach,,,,,,,Industrial Machinery & Manufacturing,
 Rockwell Automation,mach,,,,,,,Industrial Machinery & Manufacturing,
-Emerson,mach,,https://careers.emerson.com,,,,,Industrial Machinery & Manufacturing,
-Honeywell,mach,,https://careers.honeywell.com,,,,,Industrial Machinery & Manufacturing,
-Eaton,mach,,https://jobs.eaton.com,,,,,Industrial Machinery & Manufacturing,
+Emerson,mach,,https://careers.emerson.com,,,,,Industrial Machinery & Manufacturing,unknown
+Honeywell,mach,,https://careers.honeywell.com,oracle_hcm,ibqbjb,,,Industrial Machinery & Manufacturing,oracle_hcm
+Eaton,mach,,https://jobs.eaton.com,eightfold,eaton.eightfold.ai,,,Industrial Machinery & Manufacturing,eightfold
 GE,mach,,,,,,,Industrial Machinery & Manufacturing,
 Hitachi,mach,,,,,,,Industrial Machinery & Manufacturing,
 Bosch Rexroth,mach,,,,,,,Industrial Machinery & Manufacturing,
-FANUC,mach,,https://fanucamerica.com/careers,,,,,Industrial Machinery & Manufacturing,
+FANUC,mach,,https://fanucamerica.com/careers,,,,,Industrial Machinery & Manufacturing,unknown
 Yaskawa,mach,,,,,,,Industrial Machinery & Manufacturing,
 KUKA,mach,,,,,,,Industrial Machinery & Manufacturing,
 Omron,mach,,,,,,,Industrial Machinery & Manufacturing,
 Atlas Copco,mach,,,,,,,Industrial Machinery & Manufacturing,
-Caterpillar,mach,,https://careers.caterpillar.com,,,,,Industrial Machinery & Manufacturing,
+Caterpillar,mach,,https://careers.caterpillar.com,,,,,Industrial Machinery & Manufacturing,unknown
 Komatsu,mach,,,,,,,Industrial Machinery & Manufacturing,
-John Deere,mach,,https://careers.deere.com,,,,,Industrial Machinery & Manufacturing,
+John Deere,mach,,https://careers.deere.com,eightfold,vs-errors.eightfold.ai,,,Industrial Machinery & Manufacturing,eightfold
 CNH Industrial,mach,,,,,,,Industrial Machinery & Manufacturing,
 SKF,mach,,,,,,,Industrial Machinery & Manufacturing,
 Sulzer,mach,,,,,,,Industrial Machinery & Manufacturing,
@@ -458,60 +458,60 @@ Kongsberg Defence,def,,,,,,,Defense,
 Huntington Ingalls,def,,,,,,,Defense,
 Oshkosh Defense,def,,,,,,,Defense,
 PGZ,def,,,,,,,Defense,
-Deloitte,cons,,https://careers.deloitte.com,,,,,Consulting & Professional Services,
-PwC,cons,,https://pwc.com/gx/en/careers.html,,,,,Consulting & Professional Services,
-EY,cons,,https://careers.ey.com,,,,,Consulting & Professional Services,
-KPMG,cons,,https://careers.kpmg.com,,,,,Consulting & Professional Services,
-McKinsey & Company,cons,,https://mckinsey.com/careers,,,,,Consulting & Professional Services,
-Boston Consulting Group,cons,,https://careers.bcg.com,,,,,Consulting & Professional Services,
-Bain & Company,cons,,https://bain.com/careers,,,,,Consulting & Professional Services,
+Deloitte,cons,,https://careers.deloitte.com,,,,,Consulting & Professional Services,unknown
+PwC,cons,,https://pwc.com/gx/en/careers.html,,,,,Consulting & Professional Services,unknown
+EY,cons,,https://careers.ey.com,successfactors,careers.ey.com,,,Consulting & Professional Services,successfactors
+KPMG,cons,,https://careers.kpmg.com,,,,,Consulting & Professional Services,unknown
+McKinsey & Company,cons,,https://mckinsey.com/careers,,,,,Consulting & Professional Services,unknown
+Boston Consulting Group,cons,,https://careers.bcg.com,eightfold,bcg.eightfold.ai,,,Consulting & Professional Services,eightfold
+Bain & Company,cons,,https://bain.com/careers,,,,,Consulting & Professional Services,unknown
 Oliver Wyman,cons,,,,,,,Consulting & Professional Services,
 Roland Berger,cons,,,,,,,Consulting & Professional Services,
-Capgemini,cons,,https://capgemini.com/careers,,,,,Consulting & Professional Services,
+Capgemini,cons,,https://capgemini.com/careers,,,,,Consulting & Professional Services,unknown
 IBM Consulting,cons,,,,,,,Consulting & Professional Services,
 Kearney,cons,,,,,,,Consulting & Professional Services,
 BearingPoint,cons,,,,,,,Consulting & Professional Services,
 Alvarez & Marsal,cons,,,,,,,Consulting & Professional Services,
 Grant Thornton,cons,,,,,,,Consulting & Professional Services,
 RSM,cons,,,,,,,Consulting & Professional Services,
-WSP,cons,,https://wsp.com/en-gl/careers,,,,,Consulting & Professional Services,
-AECOM,cons,,https://aecom.com/careers,,,,,Consulting & Professional Services,
+WSP,cons,,https://wsp.com/en-gl/careers,,,,,Consulting & Professional Services,unknown
+AECOM,cons,,https://aecom.com/careers,,,,,Consulting & Professional Services,unknown
 Jacobs,cons,,,,,,,Consulting & Professional Services,
 AtkinsRéalis,cons,,,,,,,Consulting & Professional Services,
 Cognizant,cons,,,,,,,Consulting & Professional Services,
 Infosys,cons,,,,,,,Consulting & Professional Services,
 Tata Consultancy Services,cons,,,,,,,Consulting & Professional Services,
 Wipro,cons,,,,,,,Consulting & Professional Services,
-LVMH,tex,,https://careers.lvmh.com,,,,,Luxury Fashion & Beauty,
-Kering,tex,,https://kering.com/en/talent,,,,,Luxury Fashion & Beauty,
-Chanel,tex,,https://careers.chanel.com,,,,,Luxury Fashion & Beauty,
-Hermès,tex,,https://careers.hermes.com,,,,,Luxury Fashion & Beauty,
-Richemont,tex,,https://careers.richemont.com,,,,,Luxury Fashion & Beauty,
+LVMH,tex,,https://careers.lvmh.com,,,,,Luxury Fashion & Beauty,unknown
+Kering,tex,,https://kering.com/en/talent,,,,,Luxury Fashion & Beauty,unknown
+Chanel,tex,,https://careers.chanel.com,,,,,Luxury Fashion & Beauty,unknown
+Hermès,tex,,https://careers.hermes.com,,,,,Luxury Fashion & Beauty,unknown
+Richemont,tex,,https://careers.richemont.com,,,,,Luxury Fashion & Beauty,unknown
 Prada Group,tex,,,,,,,Luxury Fashion & Beauty,
-Burberry,tex,,https://burberrycareers.com,,,,,Luxury Fashion & Beauty,
-Hugo Boss,tex,,https://careers.hugoboss.com,,,,,Luxury Fashion & Beauty,
+Burberry,tex,,https://burberrycareers.com,successfactors,burberrycareers.com,,,Luxury Fashion & Beauty,successfactors
+Hugo Boss,tex,,https://careers.hugoboss.com,phenom,cdn.phenompeople.com,,,Luxury Fashion & Beauty,phenom
 Moncler,tex,,,,,,,Luxury Fashion & Beauty,
 Rolex,tex,,,,,,,Luxury Fashion & Beauty,
 Swatch Group,tex,,,,,,,Luxury Fashion & Beauty,
 Patek Philippe,tex,,,,,,,Luxury Fashion & Beauty,
-Estée Lauder,tex,,https://careers.elcompanies.com,,,,,Luxury Fashion & Beauty,
+Estée Lauder,tex,,https://careers.elcompanies.com,eightfold,app.eightfold.ai,,,Luxury Fashion & Beauty,eightfold
 Shiseido,tex,,,,,,,Luxury Fashion & Beauty,
 Coty,tex,,,,,,,Luxury Fashion & Beauty,
 Puig,tex,,,,,,,Luxury Fashion & Beauty,
-Puma,tex,,https://careers.puma.com,,,,,Luxury Fashion & Beauty,
+Puma,tex,,https://careers.puma.com,,,,,Luxury Fashion & Beauty,unknown
 VF Corporation,tex,,,,,,,Luxury Fashion & Beauty,
 Levi Strauss & Co.,tex,,,,,,,Luxury Fashion & Beauty,
 Ralph Lauren,tex,,,,,,,Luxury Fashion & Beauty,
 PVH,tex,,,,,,,Luxury Fashion & Beauty,
 Ferragamo,tex,,,,,,,Luxury Fashion & Beauty,
-Uniper,power,,https://www.uniper.energy/career,,,,,Power Generation,
-Duke Energy,power,,https://careers.duke-energy.com,,,,,Power Generation,
+Uniper,power,,https://www.uniper.energy/career,,,,,Power Generation,unknown
+Duke Energy,power,,https://careers.duke-energy.com,,,,,Power Generation,unknown
 Southern Company,power,,,,,,,Power Generation,
 Dominion Energy,power,,,,,,,Power Generation,
 Exelon,power,,,,,,,Power Generation,
 PSEG,power,,,,,,,Power Generation,
-Vattenfall,power,,https://careers.vattenfall.com,,,,,Power Generation,
-Statkraft,power,,https://www.statkraft.com/careers/,,,,,Power Generation,
+Vattenfall,power,,https://careers.vattenfall.com,jsonld,careers.vattenfall.com,,,Power Generation,jsonld
+Statkraft,power,,https://www.statkraft.com/careers/,,,,,Power Generation,unknown
 AES Corporation,power,,,,,,,Power Generation,
 Eskom,power,,,,,,,Power Generation,
 Tokyo Electric Power (TEPCO),power,,,,,,,Power Generation,
@@ -519,8 +519,8 @@ NRG Energy,power,,,,,,,Power Generation,
 Constellation Energy,power,,,,,,,Power Generation,
 Centrica,power,,,,,,,Power Generation,
 SSE,power,,,,,,,Power Generation,
-National Grid,power,,https://www.nationalgrid.com/careers,,,,,Power Generation,
-Fortum,power,,https://www.fortum.com/careers,,,,,Power Generation,
+National Grid,power,,https://www.nationalgrid.com/careers,,,,,Power Generation,unknown
+Fortum,power,,https://www.fortum.com/careers,successfactors,jobs.fortum.com,,,Power Generation,successfactors
 ČEZ,power,,,,,,,Power Generation,
 ADM,agri,,,,,,,Agriculture,
 Bunge,agri,,,,,,,Agriculture,
@@ -542,28 +542,28 @@ Wilmar International,agri,,,,,,,Agriculture,
 KWS,agri,,,,,,,Agriculture,
 BASF Agricultural Solutions,agri,,,,,,,Agriculture,
 Limagrain,agri,,,,,,,Agriculture,
-Deutsche Bahn,rail,,https://db.jobs,,,,,Rail,
-SNCF,rail,,https://www.sncf.com/en/careers,,,,,Rail,
-ÖBB,rail,,https://karriere.oebb.at,,,,,Rail,
-SBB,rail,,https://jobs.sbb.ch,,,,,Rail,
-Trenitalia,rail,,https://www.fsitaliane.it/lavorare-con-noi,,,,,Rail,
-Renfe,rail,,https://www.renfe.com/es/en/renfe-group/work-with-us,,,,,Rail,
-Eurostar,rail,,https://careers.eurostar.com,,,,,Rail,
+Deutsche Bahn,rail,,https://db.jobs,,,,,Rail,unknown
+SNCF,rail,,https://www.sncf.com/en/careers,,,,,Rail,unknown
+ÖBB,rail,,https://karriere.oebb.at,,,,,Rail,unknown
+SBB,rail,,https://jobs.sbb.ch,,,,,Rail,unknown
+Trenitalia,rail,,https://www.fsitaliane.it/lavorare-con-noi,,,,,Rail,unknown
+Renfe,rail,,https://www.renfe.com/es/en/renfe-group/work-with-us,,,,,Rail,unknown
+Eurostar,rail,,https://careers.eurostar.com,,,,,Rail,unknown
 PKP,rail,,,,,,,Rail,
 Nederlandse Spoorwegen (NS),rail,,,,,,,Rail,
-JR East,rail,,https://www.jreast.co.jp/recruit/,,,,,Rail,
+JR East,rail,,https://www.jreast.co.jp/recruit/,,,,,Rail,unknown
 JR Central,rail,,,,,,,Rail,
 JR West,rail,,,,,,,Rail,
 Canadian National Railway,rail,,,,,,,Rail,
 Canadian Pacific Kansas City,rail,,,,,,,Rail,
-Union Pacific,rail,,https://up.jobs,,,,,Rail,
-BNSF Railway,rail,,https://jobs.bnsf.com,,,,,Rail,
+Union Pacific,rail,,https://up.jobs,successfactors,up.jobs,,,Rail,successfactors
+BNSF Railway,rail,,https://jobs.bnsf.com,phenom,cdn.phenompeople.com,,,Rail,phenom
 CSX,rail,,,,,,,Rail,
 Norfolk Southern,rail,,,,,,,Rail,
 DB Cargo,rail,,,,,,,Rail,
-Alstom,rail,,https://jobsearch.alstom.com,,,,,Rail,
-Siemens Mobility,rail,,https://jobs.siemens.com,,,,,Rail,
-Hitachi Rail,rail,,https://www.hitachirail.com/careers,,,,,Rail,
+Alstom,rail,,https://jobsearch.alstom.com,successfactors,jobsearch.alstom.com,,,Rail,successfactors
+Siemens Mobility,rail,,https://jobs.siemens.com,,,,,Rail,unknown
+Hitachi Rail,rail,,https://www.hitachirail.com/careers,,,,,Rail,unknown
 Stadler Rail,rail,,https://www.stadlerrail.com/en/career,,,,,Rail,
 Knorr-Bremse,rail,,,,,,,Rail,
 Wabtec,rail,,,,,,,Rail,
