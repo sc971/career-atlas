@@ -15,11 +15,16 @@ jobs:
         with:
           python-version: "3.12"
       - name: Crawl
-        run: python crawler/crawl.py --max 50 --detect 40
+        run: |
+          mkdir -p crawler data
+          cp ats_tools.py extra.py crawl.py crawler/
+          cp jobs.json status.json data/
+          python crawler/crawl.py --max 50 --detect 40
+          cp data/jobs.json data/status.json .
       - name: Commit results
         run: |
           git config user.name "career-atlas-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data/ companies.csv
+          git add jobs.json status.json companies.csv
           git diff --cached --quiet || git commit -m "Nightly crawl $(date -u +%F)"
           git push
