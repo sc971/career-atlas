@@ -83,6 +83,9 @@ def main():
         for r in todo:
             try:
                 ats, key, final = detect(r["careers_url"])
+                if ats == "successfactors":
+                    import urllib.parse as up
+                    key = up.urlparse(final or r["careers_url"]).netloc
                 if ats in ALL and key:
                     r["connector"], r["key"] = ats, key
                 r["detect_tried"] = ats or "unknown"

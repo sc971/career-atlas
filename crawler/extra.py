@@ -105,3 +105,51 @@ def fetch_phenom(company, key, limit=50):
             if n >= limit: return
 
 EXTRA["phenom"] = fetch_phenom
+
+def _csb_rows(page):
+    rows = []
+    for m in re.finditer(r'<a[^>]+href="(/job/[^"]+)"[^>]*class="[^"]*jobTitle-link[^"]*"[^>]*>(.*?)</a>|<a[^>]+class="[^"]*jobTitle-link[^"]*"[^>]+href="(/job/[^"]+)"[^>]*>(.*?)</a>', page, re.S):
+        href = m.group(1) or m.group(3)
+        title = strip_html(m.group(2) or m.group(4))
+        rows.append((href, title))
+    locs = [strip_html(x) for x in re.findall(r'<span class="jobLocation[^"]*"[^>]*>(.*?)</span>', page, re.S)]
+    out, seen = [], set()
+    for i, (href, title) in enumerate(rows):
+        if href in seen: continue
+        seen.add(href)
+        out.append((href, title, locs[len(out)] if len(out) < len(locs) else ""))
+    return out
+
+def fetch_csb(company, key, limit=50):
+    """SAP SuccessFactors Career Site Builder.
+    key = career-site host (e.g. 'careers.clariant.com') or a category URL ('https://…/go/Name/123/')."""
+    import urllib.parse as up
+    if key.startswith("http") and "/go/" in key:
+        u = up.urlparse(key); base = f"{u.scheme}://{u.netloc}"
+        pages = [key.rstrip("/") + ("/" if i == 0 else f"/{i}/") for i in range(0, 250, 25)]
+    else:
+        host = up.urlparse(key).netloc if key.startswith("http") else key
+        base = f"https://{host}"
+        pages = [f"{base}/search/?q=&sortColumn=referencedate&sortDirection=desc&startrow={i}" for i in range(0, 250, 25)]
+    n, seen = 0, set()
+    for p in pages:
+        try:
+            _, h = http(p)
+        except Exception:
+            break
+        rows = [r for r in _csb_rows(h) if r[0] not in seen]
+        if not rows: break
+        for href, title, loc in rows:
+            seen.add(href)
+            desc = ""
+            try:
+                _, jp = http(base + href)
+                m = re.search(r'class="jobdescription"[^>]*>(.*?)</span>\s*</div>', jp, re.S) or re.search(r'itemprop="description"[^>]*>(.*?)</span>', jp, re.S)
+                desc = strip_html(m.group(1)) if m else ""
+            except Exception:
+                pass
+            yield job(company, title, loc, base + href, None, desc, "successfactors")
+            n += 1
+            if n >= limit: return
+
+EXTRA["successfactors"] = fetch_csb
