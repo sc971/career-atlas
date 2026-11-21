@@ -17,25 +17,33 @@ Not: Robots.txt ve sitelerin kullanım şartlarına uyun; istek hızını düş�
 import argparse, csv, gzip, html, json, re, sys, time, urllib.error, urllib.parse, urllib.request
 from xml.etree import ElementTree as ET
 
-UA = "KariyerAtlasiBot/0.1 (+iletisim@ornek.com)"   # kendi iletişim adresinizi yazın
+UA = "Mozilla/5.0 (compatible; CareerAtlasBot/0.2; +https://github.com/sc971/career-atlas)"
 DELAY = 1.0                                          # istekler arası bekleme (sn)
 
 
 # ----------------------------------------------------------------- HTTP yardımcıları
-def http(url, data=None, headers=None, timeout=30):
-    h = {"User-Agent": UA, "Accept": "*/*", "Accept-Encoding": "gzip"}
+def http(url, data=None, headers=None, timeout=30, retries=3):
+    h = {"User-Agent": UA, "Accept": "*/*", "Accept-Encoding": "gzip", "Accept-Language": "en-US,en;q=0.9"}
     if headers:
         h.update(headers)
     body = json.dumps(data).encode() if isinstance(data, (dict, list)) else data
     if isinstance(data, (dict, list)):
         h["Content-Type"] = "application/json"
-    req = urllib.request.Request(url, data=body, headers=h, method="POST" if body else "GET")
-    time.sleep(DELAY)
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        raw = r.read()
-        if r.headers.get("Content-Encoding") == "gzip":
-            raw = gzip.decompress(raw)
-        return r.geturl(), raw.decode(r.headers.get_content_charset() or "utf-8", "replace")
+    for attempt in range(retries + 1):
+        req = urllib.request.Request(url, data=body, headers=h, method="POST" if body else "GET")
+        time.sleep(DELAY * (1 + attempt * 3))
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                raw = r.read()
+                if r.headers.get("Content-Encoding") == "gzip":
+                    raw = gzip.decompress(raw)
+                return r.geturl(), raw.decode(r.headers.get_content_charset() or "utf-8", "replace")
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 502, 503, 504) and attempt < retries:
+                wait = int(e.headers.get("Retry-After") or 0) or 10 * (attempt + 1)
+                time.sleep(min(wait, 60))
+                continue
+            raise
 
 def get_json(url, data=None):
     return json.loads(http(url, data=data, headers={"Accept": "application/json"})[1])
@@ -113,7 +121,11 @@ def fetch_workday(company, key, with_description=False):
     api = f"{base}/wday/cxs/{tenant}/{site}"
     offset, limit = 0, 20
     while True:
-        data = get_json(f"{api}/jobs", {"appliedFacets": {}, "limit": limit, "offset": offset, "searchText": ""})
+        _, txt = http(f"{api}/jobs", {"appliedFacets": {}, "limit": limit, "offset": offset, "searchText": ""},
+                      headers={"Accept": "application/json", "Origin": base, "Referer": f"{base}/{site}"})
+        if not txt.lstrip().startswith("{"):
+            raise RuntimeError("Workday returned a non-JSON page (maintenance or blocked): " + strip_html(txt)[:120])
+        data = json.loads(txt)
         posts = data.get("jobPostings", [])
         for p in posts:
             desc = ""
