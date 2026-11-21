@@ -12,27 +12,27 @@ ADNOC,og,AE,https://jobs.adnoc.ae,jsonld,jobs.adnoc.ae,,#0369A1,,
 ENOC,og,AE,https://careers.enoc.com,successfactors,careers.enoc.com,,#0F766E,,
 Saudi Aramco,og,SA,https://careers.aramco.com/expat_uk/go/For-European-Candidates/7717923,successfactors,https://careers.aramco.com/expat_uk/go/For-European-Candidates/7717923,,#00843D,,
 Saudi Aramco,og,SA,https://careers.aramco.com/expat_us/go/For-US-Applicants/7717823,successfactors,https://careers.aramco.com/expat_us/go/For-US-Applicants/7717823,,#00843D,,
-Meta,soft,,https://metacareers.com,,,,,Technology & Software,
-SAP,soft,,https://jobs.sap.com,,,,,Technology & Software,
-Salesforce,soft,,https://careers.salesforce.com,,,,,Technology & Software,
-Adobe,soft,,https://careers.adobe.com,,,,,Technology & Software,
-IBM,soft,,https://ibm.com/careers,,,,,Technology & Software,
-Cisco,soft,,https://jobs.cisco.com,,,,,Technology & Software,
-ServiceNow,soft,,https://careers.servicenow.com,,,,,Technology & Software,
-Workday,soft,,https://workday.com/en-us/company/careers.html,,,,,Technology & Software,
-Intuit,soft,,https://careers.intuit.com,,,,,Technology & Software,
-Dell Technologies,soft,,https://jobs.dell.com,,,,,Technology & Software,
-HP,soft,,https://jobs.hp.com,,,,,Technology & Software,
-NVIDIA,soft,,https://nvidia.com/en-us/about-nvidia/careers,,,,,Technology & Software,
-AMD,soft,,https://careers.amd.com,,,,,Technology & Software,
-Qualcomm,soft,,https://careers.qualcomm.com,,,,,Technology & Software,
-Broadcom,soft,,https://careers.broadcom.com,,,,,Technology & Software,
-Accenture,soft,,https://accenture.com/careers,,,,,Technology & Software,
-Atlassian,soft,,https://atlassian.com/company/careers,,,,,Technology & Software,
-Snowflake,soft,,https://careers.snowflake.com,,,,,Technology & Software,
-Palantir,soft,,https://palantir.com/careers,,,,,Technology & Software,
-Tencent,soft,,https://careers.tencent.com,,,,,Technology & Software,
-Alibaba,soft,,https://talent.alibaba.com,,,,,Technology & Software,
+Meta,soft,,https://metacareers.com,,,,,Technology & Software,unknown
+SAP,soft,,https://jobs.sap.com,successfactors,jobs.sap.com,,,Technology & Software,successfactors
+Salesforce,soft,,https://careers.salesforce.com,,,,,Technology & Software,unknown
+Adobe,soft,,https://careers.adobe.com,phenom,cdn.phenompeople.com,,,Technology & Software,phenom
+IBM,soft,,https://ibm.com/careers,,,,,Technology & Software,unknown
+Cisco,soft,,https://jobs.cisco.com,phenom,cdn.phenompeople.com,,,Technology & Software,phenom
+ServiceNow,soft,,https://careers.servicenow.com,,,,,Technology & Software,unknown
+Workday,soft,,https://workday.com/en-us/company/careers.html,workday,workday|wd5|Workday,,,Technology & Software,workday
+Intuit,soft,,https://careers.intuit.com,,,,,Technology & Software,unknown
+Dell Technologies,soft,,https://jobs.dell.com,,,,,Technology & Software,unknown
+HP,soft,,https://jobs.hp.com,eightfold,hp-sandbox.eightfold.ai,,,Technology & Software,eightfold
+NVIDIA,soft,,https://nvidia.com/en-us/about-nvidia/careers,workday,nvidia|wd5|NVIDIAExternalCareerSite,,,Technology & Software,workday
+AMD,soft,,https://careers.amd.com,,,,,Technology & Software,icims
+Qualcomm,soft,,https://careers.qualcomm.com,eightfold,app.eightfold.ai,,,Technology & Software,eightfold
+Broadcom,soft,,https://careers.broadcom.com,,,,,Technology & Software,unknown
+Accenture,soft,,https://accenture.com/careers,workday,accenture|wd103|AccentureCareers,,,Technology & Software,workday
+Atlassian,soft,,https://atlassian.com/company/careers,,,,,Technology & Software,icims
+Snowflake,soft,,https://careers.snowflake.com,phenom,cdn.phenompeople.com,,,Technology & Software,phenom
+Palantir,soft,,https://palantir.com/careers,lever,palantir,,,Technology & Software,lever
+Tencent,soft,,https://careers.tencent.com,,,,,Technology & Software,unknown
+Alibaba,soft,,https://talent.alibaba.com,,,,,Technology & Software,unknown
 Intel,semi,,,,,,,AI & Semiconductors,
 TSMC,semi,,,,,,,AI & Semiconductors,
 Samsung Electronics,semi,,,,,,,AI & Semiconductors,
@@ -79,33 +79,33 @@ Aptiv,auto,,,,,,,Automotive & Suppliers,
 Magna International,auto,,,,,,,Automotive & Suppliers,
 Michelin,auto,,,,,,,Automotive & Suppliers,
 Forvia,auto,,,,,,,Automotive & Suppliers,
-Airbus,def,,https://airbus.com/en/careers,,,,,Aerospace & Space,
-Boeing,def,,https://jobs.boeing.com,,,,,Aerospace & Space,
-RTX,def,,https://careers.rtx.com,,,,,Aerospace & Space,
-Lockheed Martin,def,,https://lockheedmartinjobs.com,,,,,Aerospace & Space,
-Northrop Grumman,def,,https://jobs.northropgrumman.com,,,,,Aerospace & Space,
-Safran,def,,https://safran-group.com/careers,,,,,Aerospace & Space,
-GE Aerospace,def,,https://careers.geaerospace.com,,,,,Aerospace & Space,
-Rolls-Royce,def,,https://careers.rolls-royce.com,,,,,Aerospace & Space,
-Leonardo,def,,https://careers.leonardo.com,,,,,Aerospace & Space,
-Thales,def,,https://careers.thalesgroup.com,,,,,Aerospace & Space,
-Embraer,def,,https://embraer.com/en/careers,,,,,Aerospace & Space,
-Dassault Aviation,def,,https://careers.dassault-aviation.com,,,,,Aerospace & Space,
-Bombardier,def,,https://careers.bombardier.com,,,,,Aerospace & Space,
+Airbus,def,,https://airbus.com/en/careers,workday,ag|wd3|Airbus,,,Aerospace & Space,workday
+Boeing,def,,https://jobs.boeing.com,workday,boeing|wd1|EXTERNAL_CAREERS,,,Aerospace & Space,workday
+RTX,def,,https://careers.rtx.com,,,,,Aerospace & Space,unknown
+Lockheed Martin,def,,https://lockheedmartinjobs.com,,,,,Aerospace & Space,unknown
+Northrop Grumman,def,,https://jobs.northropgrumman.com,eightfold,app.eightfold.ai,,,Aerospace & Space,eightfold
+Safran,def,,https://safran-group.com/careers,,,,,Aerospace & Space,unknown
+GE Aerospace,def,,https://careers.geaerospace.com,phenom,cdn.phenompeople.com,,,Aerospace & Space,phenom
+Rolls-Royce,def,,https://careers.rolls-royce.com,,,,,Aerospace & Space,unknown
+Leonardo,def,,https://careers.leonardo.com,,,,,Aerospace & Space,unknown
+Thales,def,,https://careers.thalesgroup.com,phenom,cdn.phenompeople.com,,,Aerospace & Space,phenom
+Embraer,def,,https://embraer.com/en/careers,,,,,Aerospace & Space,unknown
+Dassault Aviation,def,,https://careers.dassault-aviation.com,,,,,Aerospace & Space,unknown
+Bombardier,def,,https://careers.bombardier.com,,,,,Aerospace & Space,unknown
 Honeywell Aerospace,def,,,,,,,Aerospace & Space,
 L3Harris,def,,,,,,,Aerospace & Space,
 BAE Systems,def,,,,,,,Aerospace & Space,
-SpaceX,def,,https://spacex.com/careers,,,,,Aerospace & Space,
-Blue Origin,def,,https://blueorigin.com/careers,,,,,Aerospace & Space,
-ArianeGroup,def,,https://ariane.group/en/careers,,,,,Aerospace & Space,
+SpaceX,def,,https://spacex.com/careers,,,,,Aerospace & Space,unknown
+Blue Origin,def,,https://blueorigin.com/careers,,,,,Aerospace & Space,unknown
+ArianeGroup,def,,https://ariane.group/en/careers,workday,arianegroup|wd3|EXTERNALALL,,,Aerospace & Space,workday
 Mitsubishi Heavy Industries,def,,,,,,,Aerospace & Space,
 Kawasaki Heavy Industries,def,,,,,,,Aerospace & Space,
 Rheinmetall,def,,,,,,,Aerospace & Space,
-MTU Aero Engines,def,,https://mtu.de/en/career,,,,,Aerospace & Space,
+MTU Aero Engines,def,,https://mtu.de/en/career,,,,,Aerospace & Space,unknown
 Parker Hannifin,def,,,,,,,Aerospace & Space,
 Moog,def,,,,,,,Aerospace & Space,
-Lufthansa Group,air,,https://careers.lufthansagroup.com,,,,,Airlines,
-Air France-KLM,air,,https://careers.airfranceklm.com,,,,,Airlines,
+Lufthansa Group,air,,https://careers.lufthansagroup.com,,,,,Airlines,unknown
+Air France-KLM,air,,https://careers.airfranceklm.com,,,,,Airlines,unknown
 IAG (British Airways),air,,,,,,,Airlines,
 Ryanair,air,,https://careers.ryanair.com,,,,,Airlines,
 easyJet,air,,,,,,,Airlines,
