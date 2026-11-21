@@ -3,3990 +3,3990 @@
   "jobs": 50,
   "error": null,
   "connector": "eightfold_pcsx",
-  "at": "2026-11-21 10:05"
+  "at": "2026-11-21 10:19"
  },
  "Google": {
   "jobs": 50,
   "error": null,
   "connector": "google",
-  "at": "2026-11-21 10:05"
+  "at": "2026-11-21 10:19"
  },
  "Apple": {
   "jobs": 50,
   "error": null,
   "connector": "apple",
-  "at": "2026-11-21 10:05"
+  "at": "2026-11-21 10:19"
  },
  "Amazon": {
   "jobs": 50,
   "error": null,
   "connector": "amazon",
-  "at": "2026-11-21 10:05"
+  "at": "2026-11-21 10:19"
  },
  "Oracle": {
   "jobs": 50,
   "error": null,
   "connector": "oracle_hcm",
-  "at": "2026-11-21 10:06"
+  "at": "2026-11-21 10:20"
  },
  "Dow": {
-  "jobs": 0,
-  "error": "RuntimeError: Workday returned a non-JSON page (maintenance or blocked): Workday is currently unavailable. English English Arabic Chinese, Simplified Chinese, Traditional Czech Dutch Finnish Fr",
+  "jobs": 40,
+  "error": null,
   "connector": "workday",
-  "at": "2026-11-21 10:06"
+  "at": "2026-11-21 10:20"
  },
  "Equinor": {
   "jobs": 7,
   "error": null,
   "connector": "workday",
-  "at": "2026-11-21 10:06"
+  "at": "2026-11-21 10:20"
  },
  "EDGE Group": {
   "jobs": 50,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:08"
+  "at": "2026-11-21 10:22"
  },
  "SABIC": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:08"
+  "at": "2026-11-21 10:22"
  },
  "ADNOC": {
   "jobs": 50,
   "error": null,
   "connector": "jsonld",
-  "at": "2026-11-21 10:09"
+  "at": "2026-11-21 10:23"
  },
  "ENOC": {
   "jobs": 5,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:09"
+  "at": "2026-11-21 10:23"
  },
  "Saudi Aramco": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:10"
+  "at": "2026-11-21 10:24"
  },
  "SAP": {
   "jobs": 50,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Adobe": {
   "jobs": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "connector": "phenom",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Cisco": {
   "jobs": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "connector": "phenom",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Workday": {
   "jobs": 40,
   "error": null,
   "connector": "workday",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "HP": {
   "jobs": 0,
   "error": "HTTPError: HTTP Error 403: FORBIDDEN",
   "connector": "eightfold",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "NVIDIA": {
   "jobs": 40,
   "error": null,
   "connector": "workday",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Qualcomm": {
   "jobs": 0,
   "error": "HTTPError: HTTP Error 403: FORBIDDEN",
   "connector": "eightfold",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Accenture": {
   "jobs": 40,
   "error": null,
   "connector": "workday",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Snowflake": {
   "jobs": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "connector": "phenom",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Palantir": {
   "jobs": 50,
   "error": null,
   "connector": "lever",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Airbus": {
   "jobs": 40,
   "error": null,
   "connector": "workday",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Boeing": {
   "jobs": 40,
   "error": null,
   "connector": "workday",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Northrop Grumman": {
   "jobs": 0,
   "error": "HTTPError: HTTP Error 403: FORBIDDEN",
   "connector": "eightfold",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "GE Aerospace": {
   "jobs": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "connector": "phenom",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Thales": {
   "jobs": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "connector": "phenom",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "ArianeGroup": {
   "jobs": 40,
   "error": null,
   "connector": "workday",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Ryanair": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Etihad Airways": {
   "jobs": 0,
   "error": null,
   "connector": "smartrecruiters",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Singapore Airlines": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "United Airlines": {
   "jobs": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "connector": "phenom",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "American Airlines": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Southwest Airlines": {
   "jobs": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "connector": "phenom",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:26"
  },
  "Air Canada": {
   "jobs": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "connector": "phenom",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:27"
  },
  "Wizz Air": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:27"
  },
  "BASF": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:27"
  },
  "DuPont": {
   "jobs": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "connector": "phenom",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:27"
  },
  "Syensqo": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:27"
  },
  "Arkema": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:27"
  },
  "Solvay": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:12"
+  "at": "2026-11-21 10:27"
  },
  "Eastman": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:27"
  },
  "Wacker Chemie": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:27"
  },
  "Clariant": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:27"
  },
  "Lanxess": {
   "jobs": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "connector": "phenom",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:27"
  },
  "SCHOTT": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:27"
  },
  "ExxonMobil": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:27"
  },
  "Chevron": {
   "jobs": 0,
   "error": "HTTPError: HTTP Error 404: NOT FOUND",
   "connector": "eightfold",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:27"
  },
  "BP": {
   "jobs": 40,
   "error": null,
   "connector": "workday",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:27"
  },
  "Vestas": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:27"
  },
  "GE Vernova": {
   "jobs": 50,
   "error": null,
   "connector": "workday",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:27"
  },
  "RWE": {
   "jobs": 0,
   "error": null,
   "connector": "successfactors",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:27"
+ },
+ "Pfizer": {
+  "jobs": 40,
+  "error": null,
+  "connector": "workday",
+  "at": "2026-11-21 10:27"
+ },
+ "Johnson & Johnson": {
+  "jobs": 50,
+  "error": null,
+  "connector": "workday",
+  "at": "2026-11-21 10:27"
+ },
+ "Roche": {
+  "jobs": 0,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "connector": "phenom",
+  "at": "2026-11-21 10:27"
+ },
+ "Merck KGaA": {
+  "jobs": 0,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "connector": "phenom",
+  "at": "2026-11-21 10:27"
+ },
+ "AstraZeneca": {
+  "jobs": 0,
+  "error": "HTTPError: HTTP Error 403: FORBIDDEN",
+  "connector": "eightfold",
+  "at": "2026-11-21 10:27"
+ },
+ "Amgen": {
+  "jobs": 40,
+  "error": null,
+  "connector": "workday",
+  "at": "2026-11-21 10:27"
+ },
+ "JPMorgan Chase": {
+  "jobs": 0,
+  "error": "ValueError: not enough values to unpack (expected 2, got 1)",
+  "connector": "oracle_hcm",
+  "at": "2026-11-21 10:27"
+ },
+ "Barclays": {
+  "jobs": 50,
+  "error": null,
+  "connector": "workday",
+  "at": "2026-11-21 10:27"
+ },
+ "Mastercard": {
+  "jobs": 40,
+  "error": null,
+  "connector": "workday",
+  "at": "2026-11-21 10:27"
+ },
+ "Allianz": {
+  "jobs": 0,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "connector": "phenom",
+  "at": "2026-11-21 10:27"
+ },
+ "Swiss Re": {
+  "jobs": 0,
+  "error": null,
+  "connector": "successfactors",
+  "at": "2026-11-21 10:27"
+ },
+ "DHL Group": {
+  "jobs": 0,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "connector": "phenom",
+  "at": "2026-11-21 10:27"
+ },
+ "Kuehne+Nagel": {
+  "jobs": 0,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "connector": "phenom",
+  "at": "2026-11-21 10:28"
+ },
+ "Procter & Gamble": {
+  "jobs": 0,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "connector": "phenom",
+  "at": "2026-11-21 10:28"
+ },
+ "Unilever": {
+  "jobs": 40,
+  "error": null,
+  "connector": "workday",
+  "at": "2026-11-21 10:28"
+ },
+ "Coca-Cola": {
+  "jobs": 40,
+  "error": null,
+  "connector": "workday",
+  "at": "2026-11-21 10:28"
+ },
+ "Mondelez": {
+  "jobs": 0,
+  "error": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+  "connector": "phenom",
+  "at": "2026-11-21 10:28"
+ },
+ "Reckitt": {
+  "jobs": 0,
+  "error": null,
+  "connector": "successfactors",
+  "at": "2026-11-21 10:28"
  },
  "Meta": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Salesforce": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "IBM": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ServiceNow": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Intuit": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Dell Technologies": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "AMD": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Broadcom": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Atlassian": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Tencent": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Alibaba": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Intel": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "TSMC": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Samsung Electronics": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ASML": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Applied Materials": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Lam Research": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "KLA": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Micron": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "SK hynix": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Arm": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Texas Instruments": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Infineon": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "STMicroelectronics": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "NXP Semiconductors": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Marvell": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "MediaTek": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "GlobalFoundries": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Tokyo Electron": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Renesas": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Analog Devices": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "onsemi": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Toyota": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Volkswagen Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Mercedes-Benz Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "BMW Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Stellantis": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Ford": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "General Motors": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Tesla": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Hyundai Motor": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Kia": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Honda": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Nissan": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Renault": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Volvo Cars": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "BYD": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Porsche": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Continental": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Bosch": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ZF Friedrichshafen": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Denso": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Valeo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Aptiv": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Magna International": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Michelin": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Forvia": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "RTX": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Lockheed Martin": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Safran": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Rolls-Royce": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Leonardo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Embraer": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Dassault Aviation": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Bombardier": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Honeywell Aerospace": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "L3Harris": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "BAE Systems": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "SpaceX": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Blue Origin": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Mitsubishi Heavy Industries": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Kawasaki Heavy Industries": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Rheinmetall": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "MTU Aero Engines": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Parker Hannifin": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Moog": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Lufthansa Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Air France-KLM": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "IAG (British Airways)": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "easyJet": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Turkish Airlines": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Emirates": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Qatar Airways": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Cathay Pacific": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ANA": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Japan Airlines": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Delta Air Lines": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Qantas": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Pegasus Airlines": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "EVA Air": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Korean Air": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "China Southern Airlines": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "LATAM Airlines": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Evonik": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Covestro": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "LyondellBasell": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "INEOS": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Mitsubishi Chemical": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Celanese": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ExxonMobil Chemical": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Shell Chemicals": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "TotalEnergies": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "LG Chem": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Formosa Plastics": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Huntsman": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Toray": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Kuraray": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Saint-Gobain": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "AGC": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Guardian Industries": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "NSG Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Corning": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Owens-Illinois (O-I Glass)": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Xinyi Glass": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Şişecam": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Vitro": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "CRH": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Holcim": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Heidelberg Materials": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Cemex": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Knauf": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Kingspan": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Sika": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ArcelorMittal": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Nippon Steel": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "JFE Steel": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Tata Steel": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Vesuvius": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ROCKWOOL": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Owens Corning": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Wienerberger": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Shell": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "PetroChina": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Sinopec": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "CNOOC": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Eni": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Repsol": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ConocoPhillips": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Occidental Petroleum": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "QatarEnergy": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Petronas": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Phillips 66": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Valero": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Marathon Petroleum": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Woodside Energy": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Baker Hughes": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "SLB": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Halliburton": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Technip Energies": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "NextEra Energy": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Ørsted": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Iberdrola": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Enel": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Siemens Energy": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Goldwind": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Canadian Solar": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "JinkoSolar": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "LONGi": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "First Solar": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "E.ON": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Engie": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "EDF": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "EDP": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Brookfield Renewable": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Sungrow": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Nordex": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Acciona Energía": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "SolarEdge": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Schneider Electric": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Fluence": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Bloom Energy": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Pfizer": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Johnson & Johnson": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Roche": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Novartis": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Merck & Co.": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Merck KGaA": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "AstraZeneca": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Sanofi": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "GSK": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "AbbVie": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Bayer": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Bristol Myers Squibb": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Eli Lilly": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Novo Nordisk": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Amgen": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Biogen": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Gilead Sciences": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Takeda": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Boehringer Ingelheim": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "CSL": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Moderna": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Vertex Pharmaceuticals": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Regeneron": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Lonza": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Genentech": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Medtronic": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Siemens Healthineers": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "GE HealthCare": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Philips": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Stryker": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Abbott": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Boston Scientific": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Becton Dickinson": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Zimmer Biomet": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Fresenius": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Fresenius Medical Care": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Ramsay Health Care": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "HCA Healthcare": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "UnitedHealth Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Cigna": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Elevance Health": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Kaiser Permanente": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Baxter": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Olympus": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Draeger": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ResMed": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Intuitive Surgical": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Terumo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Getinge": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Cardinal Health": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "JPMorgan Chase": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Bank of America": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Citigroup": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Goldman Sachs": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Morgan Stanley": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Wells Fargo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "HSBC": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Barclays": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "UBS": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Deutsche Bank": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "BNP Paribas": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Crédit Agricole": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Santander": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ING": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "UniCredit": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Commerzbank": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Standard Chartered": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "BlackRock": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Visa": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Mastercard": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "American Express": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "PayPal": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Société Générale": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Lloyds Banking Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Fidelity Investments": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Allianz": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "AXA": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Zurich Insurance": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Munich Re": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Swiss Re": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Generali": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "AIG": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Chubb": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Prudential plc": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "MetLife": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Ping An": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Aviva": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Hannover Re": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "HDI/Talanx": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ERGO": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "State Farm": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Progressive": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Nationwide": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Tokio Marine": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Sompo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "NN Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Mapfre": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "CNP Assurances": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Baloise": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Aflac": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "DHL Group": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "UPS": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "FedEx": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Maersk": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "MSC": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Kuehne+Nagel": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "DB Schenker": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "DSV": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "CEVA Logistics": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "J.B. Hunt": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "C.H. Robinson": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "XPO": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "SF Express": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Japan Post": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "DP World": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Hapag-Lloyd": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Evergreen Marine": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Panalpina (legacy)": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Lufthansa Cargo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Amazon Logistics": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Geodis": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Hellmann": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Fracht": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Rhenus": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Nippon Express": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Nestlé": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Procter & Gamble": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Unilever": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "PepsiCo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Coca-Cola": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Mondelez": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Mars": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Danone": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Kraft Heinz": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "General Mills": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Colgate-Palmolive": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
- },
- "Reckitt": {
-  "jobs": 0,
-  "error": "no connector yet",
-  "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "L'Oréal": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Henkel": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Kimberly-Clark": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "AB InBev": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Heineken": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Diageo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Carlsberg": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Ferrero": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Oatly": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Tyson Foods": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "JBS": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Cargill": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Philip Morris International": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Walmart": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Costco": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Schwarz Group (Lidl)": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Aldi": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Carrefour": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Tesco": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Auchan": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Metro AG": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "REWE Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Edeka": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "IKEA": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Inditex": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "H&M": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Zara": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Target": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Home Depot": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Lowe's": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "JD.com": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "eBay": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Rakuten": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Nike": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Adidas": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Decathlon": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Deutsche Telekom": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Vodafone": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Orange": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Telefonica": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "BT Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Verizon": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "AT&T": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "T-Mobile US": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Swisscom": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Telecom Italia": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "KPN": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Telia": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Telenor": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Ericsson": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Nokia": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Huawei": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ZTE": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Samsung Networks": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Rakuten Mobile": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Reliance Jio": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "China Mobile": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "SK Telecom": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "NTT": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "A1 Telekom": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Siemens": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ABB": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Mitsubishi Electric": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Rockwell Automation": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Emerson": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Honeywell": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Eaton": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "GE": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Hitachi": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Bosch Rexroth": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "FANUC": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Yaskawa": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "KUKA": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Omron": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Atlas Copco": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Caterpillar": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Komatsu": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "John Deere": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "CNH Industrial": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "SKF": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Sulzer": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Krones": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Festo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "General Dynamics": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Airbus Defence": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Saab": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Boeing Defense": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "KNDS": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Diehl Defence": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Elbit Systems": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Israel Aerospace Industries": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Hanwha Aerospace": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Naval Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "MBDA": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Kongsberg Defence": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Huntington Ingalls": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Oshkosh Defense": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "PGZ": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Deloitte": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "PwC": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "EY": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "KPMG": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "McKinsey & Company": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Boston Consulting Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Bain & Company": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Oliver Wyman": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Roland Berger": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Capgemini": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "IBM Consulting": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Kearney": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "BearingPoint": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Alvarez & Marsal": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Grant Thornton": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "RSM": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "WSP": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "AECOM": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Jacobs": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "AtkinsRéalis": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Cognizant": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Infosys": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Tata Consultancy Services": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Wipro": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "LVMH": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Kering": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Chanel": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Hermès": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Richemont": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Prada Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Burberry": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Hugo Boss": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Moncler": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Rolex": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Swatch Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Patek Philippe": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Estée Lauder": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Shiseido": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Coty": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Puig": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Puma": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "VF Corporation": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Levi Strauss & Co.": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Ralph Lauren": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "PVH": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Ferragamo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Uniper": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Duke Energy": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Southern Company": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Dominion Energy": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Exelon": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "PSEG": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Vattenfall": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Statkraft": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "AES Corporation": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Eskom": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Tokyo Electric Power (TEPCO)": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "NRG Energy": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Constellation Energy": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Centrica": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "SSE": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "National Grid": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Fortum": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ČEZ": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ADM": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Bunge": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Louis Dreyfus Company": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Olam Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Corteva": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Syngenta": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Bayer Crop Science": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Kubota": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "AGCO": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Yara International": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Nutrien": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Mosaic": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "FMC Corporation": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Valmont Industries": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Deere & Company": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Archer Daniels Midland": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Wilmar International": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "KWS": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "BASF Agricultural Solutions": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Limagrain": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Deutsche Bahn": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "SNCF": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ÖBB": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "SBB": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Trenitalia": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Renfe": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Eurostar": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "PKP": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Nederlandse Spoorwegen (NS)": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "JR East": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "JR Central": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "JR West": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Canadian National Railway": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Canadian Pacific Kansas City": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Union Pacific": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "BNSF Railway": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "CSX": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Norfolk Southern": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "DB Cargo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Alstom": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Siemens Mobility": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Hitachi Rail": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Stadler Rail": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Knorr-Bremse": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Wabtec": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "CBRE": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "JLL": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Cushman & Wakefield": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Colliers": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Savills": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Knight Frank": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Vonovia": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "LEG Immobilien": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Aroundtown": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Deutsche Wohnen": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Unibail-Rodamco-Westfield": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Klépierre": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Gecina": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Prologis": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Realty Income": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Brookfield Properties": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "DWS": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Blackstone Real Estate": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Swiss Prime Site": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "CA Immo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "PATRIZIA": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Wüstenrot Immobilien": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "STRABAG Real Estate": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Skanska": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Hines": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "The Walt Disney Company": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Netflix": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Warner Bros. Discovery": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Universal Music Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Sony": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Paramount": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Fox Corporation": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Comcast": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "NBCUniversal": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Spotify": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Amazon MGM Studios": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Electronic Arts": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Nintendo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Take-Two Interactive": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Ubisoft": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Bertelsmann": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "RTL Group": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Sky": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "BBC": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ITV": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Canal+": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "TikTok": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "YouTube": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Pearson": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Scholastic": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "McGraw Hill": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Cengage": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Wiley": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Elsevier": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "RELX": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Thomson Reuters": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Duolingo": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Coursera": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Udemy": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Chegg": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Khan Academy": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Bertelsmann Education": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "EF Education First": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Kaplan": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Instructure": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Stride": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Houghton Mifflin Harcourt": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Cambridge University Press & Assessment": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Oxford University Press": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "University of Oxford": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "University of Cambridge": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "ETH Zurich": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "TU Munich": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Veolia": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Suez": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Waste Management": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Republic Services": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Remondis": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "PreZero": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Clean Harbors": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "GFL Environmental": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Biffa": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "FCC Environment": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Aqua America (Essential Utilities)": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "American Water": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Severn Trent": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "United Utilities": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Thames Water": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Ecolab": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Xylem": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Pentair": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Grundfos": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Badger Meter": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Aguas de Barcelona (Agbar)": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Wessex Water": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Wasserverband Eifel-Rur": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Berliner Wasserbetriebe": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  },
  "Stadtwerke München": {
   "jobs": 0,
   "error": "no connector yet",
   "connector": "",
-  "at": "2026-11-21 10:13"
+  "at": "2026-11-21 10:28"
  }
 }

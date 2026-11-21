@@ -220,33 +220,33 @@ Sungrow,ren,,,,,,,Renewable Energy,
 Nordex,ren,,,,,,,Renewable Energy,
 Acciona Energía,ren,,,,,,,Renewable Energy,
 SolarEdge,ren,,,,,,,Renewable Energy,
-Schneider Electric,ren,,https://careers.se.com,,,,,Renewable Energy,
+Schneider Electric,ren,,https://careers.se.com,,,,,Renewable Energy,taleo
 Fluence,ren,,,,,,,Renewable Energy,
 Bloom Energy,ren,,,,,,,Renewable Energy,
-Pfizer,pharma,,https://pfizer.com/about/careers,,,,,Pharma & Biotech,
-Johnson & Johnson,pharma,,https://careers.jnj.com,,,,,Pharma & Biotech,
-Roche,pharma,,https://careers.roche.com,,,,,Pharma & Biotech,
-Novartis,pharma,,https://careers.novartis.com,,,,,Pharma & Biotech,
-Merck & Co.,pharma,,https://careers.merck.com,,,,,Pharma & Biotech,
-Merck KGaA,pharma,,https://careers.emdgroup.com,,,,,Pharma & Biotech,
-AstraZeneca,pharma,,https://careers.astrazeneca.com,,,,,Pharma & Biotech,
-Sanofi,pharma,,https://careers.sanofi.com,,,,,Pharma & Biotech,
-GSK,pharma,,https://gsk.com/en-gb/careers.html,,,,,Pharma & Biotech,
-AbbVie,pharma,,https://careers.abbvie.com,,,,,Pharma & Biotech,
-Bayer,pharma,,https://career.bayer.com,,,,,Pharma & Biotech,
+Pfizer,pharma,,https://pfizer.com/about/careers,workday,pfizer|wd1|PfizerCareers,,,Pharma & Biotech,workday
+Johnson & Johnson,pharma,,https://careers.jnj.com,workday,jj|wd5|JJ,,,Pharma & Biotech,workday
+Roche,pharma,,https://careers.roche.com,phenom,cdn.phenompeople.com,,,Pharma & Biotech,phenom
+Novartis,pharma,,https://careers.novartis.com,,,,,Pharma & Biotech,unknown
+Merck & Co.,pharma,,https://careers.merck.com,,,,,Pharma & Biotech,unknown
+Merck KGaA,pharma,,https://careers.emdgroup.com,phenom,cdn.phenompeople.com,,,Pharma & Biotech,phenom
+AstraZeneca,pharma,,https://careers.astrazeneca.com,eightfold,astrazeneca.eightfold.ai,,,Pharma & Biotech,eightfold
+Sanofi,pharma,,https://careers.sanofi.com,,,,,Pharma & Biotech,unknown
+GSK,pharma,,https://gsk.com/en-gb/careers.html,,,,,Pharma & Biotech,unknown
+AbbVie,pharma,,https://careers.abbvie.com,,,,,Pharma & Biotech,unknown
+Bayer,pharma,,https://career.bayer.com,,,,,Pharma & Biotech,unknown
 Bristol Myers Squibb,pharma,,,,,,,Pharma & Biotech,
-Eli Lilly,pharma,,https://careers.lilly.com,,,,,Pharma & Biotech,
-Novo Nordisk,pharma,,https://novonordisk.com/careers,,,,,Pharma & Biotech,
-Amgen,pharma,,https://careers.amgen.com,,,,,Pharma & Biotech,
+Eli Lilly,pharma,,https://careers.lilly.com,,,,,Pharma & Biotech,unknown
+Novo Nordisk,pharma,,https://novonordisk.com/careers,,,,,Pharma & Biotech,unknown
+Amgen,pharma,,https://careers.amgen.com,workday,amgen|wd1|Careers,,,Pharma & Biotech,workday
 Biogen,pharma,,,,,,,Pharma & Biotech,
 Gilead Sciences,pharma,,,,,,,Pharma & Biotech,
-Takeda,pharma,,https://jobs.takeda.com,,,,,Pharma & Biotech,
-Boehringer Ingelheim,pharma,,https://careers.boehringer-ingelheim.com,,,,,Pharma & Biotech,
+Takeda,pharma,,https://jobs.takeda.com,,,,,Pharma & Biotech,avature
+Boehringer Ingelheim,pharma,,https://careers.boehringer-ingelheim.com,,,,,Pharma & Biotech,unknown
 CSL,pharma,,,,,,,Pharma & Biotech,
 Moderna,pharma,,,,,,,Pharma & Biotech,
 Vertex Pharmaceuticals,pharma,,,,,,,Pharma & Biotech,
 Regeneron,pharma,,,,,,,Pharma & Biotech,
-Lonza,pharma,,https://careers.lonza.com,,,,,Pharma & Biotech,
+Lonza,pharma,,https://careers.lonza.com,,,,,Pharma & Biotech,unknown
 Genentech,pharma,,,,,,,Pharma & Biotech,
 Medtronic,med,,,,,,,Healthcare & Medical Devices,
 Siemens Healthineers,med,,,,,,,Healthcare & Medical Devices,
@@ -273,37 +273,37 @@ Intuitive Surgical,med,,,,,,,Healthcare & Medical Devices,
 Terumo,med,,,,,,,Healthcare & Medical Devices,
 Getinge,med,,,,,,,Healthcare & Medical Devices,
 Cardinal Health,med,,,,,,,Healthcare & Medical Devices,
-JPMorgan Chase,bank,,https://careers.jpmorgan.com,,,,,Banking & Finance,
+JPMorgan Chase,bank,,https://careers.jpmorgan.com,oracle_hcm,jpmc,,,Banking & Finance,oracle_hcm
 Bank of America,bank,,,,,,,Banking & Finance,
 Citigroup,bank,,,,,,,Banking & Finance,
-Goldman Sachs,bank,,https://gs.com/careers,,,,,Banking & Finance,
+Goldman Sachs,bank,,https://gs.com/careers,,,,,Banking & Finance,avature
 Morgan Stanley,bank,,,,,,,Banking & Finance,
 Wells Fargo,bank,,,,,,,Banking & Finance,
-HSBC,bank,,https://hsbc.com/careers,,,,,Banking & Finance,
-Barclays,bank,,https://search.jobs.barclays,,,,,Banking & Finance,
-UBS,bank,,https://ubs.com/careers,,,,,Banking & Finance,
-Deutsche Bank,bank,,https://careers.db.com,,,,,Banking & Finance,
-BNP Paribas,bank,,https://group.bnpparibas/en/careers,,,,,Banking & Finance,
+HSBC,bank,,https://hsbc.com/careers,,,,,Banking & Finance,unknown
+Barclays,bank,,https://search.jobs.barclays,workday,barclays|wd3|External_Career_Site_Barclays,,,Banking & Finance,workday
+UBS,bank,,https://ubs.com/careers,,,,,Banking & Finance,unknown
+Deutsche Bank,bank,,https://careers.db.com,,,,,Banking & Finance,unknown
+BNP Paribas,bank,,https://group.bnpparibas/en/careers,,,,,Banking & Finance,unknown
 Crédit Agricole,bank,,,,,,,Banking & Finance,
 Santander,bank,,,,,,,Banking & Finance,
-ING,bank,,https://careers.ing.com,,,,,Banking & Finance,
+ING,bank,,https://careers.ing.com,,,,,Banking & Finance,unknown
 UniCredit,bank,,,,,,,Banking & Finance,
 Commerzbank,bank,,,,,,,Banking & Finance,
 Standard Chartered,bank,,,,,,,Banking & Finance,
-BlackRock,bank,,https://careers.blackrock.com,,,,,Banking & Finance,
-Visa,bank,,https://careers.visa.com,,,,,Banking & Finance,
-Mastercard,bank,,https://careers.mastercard.com,,,,,Banking & Finance,
+BlackRock,bank,,https://careers.blackrock.com,,,,,Banking & Finance,unknown
+Visa,bank,,https://careers.visa.com,,,,,Banking & Finance,unknown
+Mastercard,bank,,https://careers.mastercard.com,workday,mastercard|wd1|CorporateCareers,,,Banking & Finance,workday
 American Express,bank,,,,,,,Banking & Finance,
-PayPal,bank,,https://paypal.com/us/webapps/mpp/jobs,,,,,Banking & Finance,
+PayPal,bank,,https://paypal.com/us/webapps/mpp/jobs,,,,,Banking & Finance,unknown
 Société Générale,bank,,,,,,,Banking & Finance,
 Lloyds Banking Group,bank,,,,,,,Banking & Finance,
 Fidelity Investments,bank,,,,,,,Banking & Finance,
-Allianz,ins,,https://careers.allianz.com,,,,,Insurance,
-AXA,ins,,https://careers.axa.com,,,,,Insurance,
-Zurich Insurance,ins,,https://careers.zurich.com,,,,,Insurance,
-Munich Re,ins,,https://munichre.com/careers,,,,,Insurance,
-Swiss Re,ins,,https://careers.swissre.com,,,,,Insurance,
-Generali,ins,,https://careers.generali.com,,,,,Insurance,
+Allianz,ins,,https://careers.allianz.com,phenom,cdn.phenompeople.com,,,Insurance,phenom
+AXA,ins,,https://careers.axa.com,,,,,Insurance,icims
+Zurich Insurance,ins,,https://careers.zurich.com,,,,,Insurance,unknown
+Munich Re,ins,,https://munichre.com/careers,,,,,Insurance,unknown
+Swiss Re,ins,,https://careers.swissre.com,successfactors,rmkcdn.successfactors.com,,,Insurance,successfactors
+Generali,ins,,https://careers.generali.com,,,,,Insurance,unknown
 AIG,ins,,,,,,,Insurance,
 Chubb,ins,,,,,,,Insurance,
 Prudential plc,ins,,,,,,,Insurance,
@@ -323,22 +323,22 @@ Mapfre,ins,,,,,,,Insurance,
 CNP Assurances,ins,,,,,,,Insurance,
 Baloise,ins,,,,,,,Insurance,
 Aflac,ins,,,,,,,Insurance,
-DHL Group,log,,https://careers.dhl.com,,,,,Logistics & Transport,
-UPS,log,,https://jobs-ups.com,,,,,Logistics & Transport,
-FedEx,log,,https://careers.fedex.com,,,,,Logistics & Transport,
-Maersk,log,,https://maersk.com/careers,,,,,Logistics & Transport,
+DHL Group,log,,https://careers.dhl.com,phenom,cdn.phenompeople.com,,,Logistics & Transport,phenom
+UPS,log,,https://jobs-ups.com,,,,,Logistics & Transport,unknown
+FedEx,log,,https://careers.fedex.com,,,,,Logistics & Transport,unknown
+Maersk,log,,https://maersk.com/careers,,,,,Logistics & Transport,unknown
 MSC,log,,,,,,,Logistics & Transport,
-Kuehne+Nagel,log,,https://jobs.kuehne-nagel.com,,,,,Logistics & Transport,
-DB Schenker,log,,https://jobs.dbschenker.com,,,,,Logistics & Transport,
-DSV,log,,https://careers.dsv.com,,,,,Logistics & Transport,
+Kuehne+Nagel,log,,https://jobs.kuehne-nagel.com,phenom,cdn.phenompeople.com,,,Logistics & Transport,phenom
+DB Schenker,log,,https://jobs.dbschenker.com,,,,,Logistics & Transport,unknown
+DSV,log,,https://careers.dsv.com,,,,,Logistics & Transport,unknown
 CEVA Logistics,log,,,,,,,Logistics & Transport,
 J.B. Hunt,log,,,,,,,Logistics & Transport,
 C.H. Robinson,log,,,,,,,Logistics & Transport,
 XPO,log,,,,,,,Logistics & Transport,
 SF Express,log,,,,,,,Logistics & Transport,
 Japan Post,log,,,,,,,Logistics & Transport,
-DP World,log,,https://careers.dpworld.com,,,,,Logistics & Transport,
-Hapag-Lloyd,log,,https://career.hapag-lloyd.com,,,,,Logistics & Transport,
+DP World,log,,https://careers.dpworld.com,,,,,Logistics & Transport,unknown
+Hapag-Lloyd,log,,https://career.hapag-lloyd.com,,,,,Logistics & Transport,unknown
 Evergreen Marine,log,,,,,,,Logistics & Transport,
 Panalpina (legacy),log,,,,,,,Logistics & Transport,
 Lufthansa Cargo,log,,,,,,,Logistics & Transport,
@@ -348,20 +348,20 @@ Hellmann,log,,,,,,,Logistics & Transport,
 Fracht,log,,,,,,,Logistics & Transport,
 Rhenus,log,,,,,,,Logistics & Transport,
 Nippon Express,log,,,,,,,Logistics & Transport,
-Nestlé,fmcg,,https://careers.nestle.com,,,,,FMCG Food & Beverage,
-Procter & Gamble,fmcg,,https://pgcareers.com,,,,,FMCG Food & Beverage,
-Unilever,fmcg,,https://careers.unilever.com,,,,,FMCG Food & Beverage,
-PepsiCo,fmcg,,https://careers.pepsico.com,,,,,FMCG Food & Beverage,
-Coca-Cola,fmcg,,https://careers.coca-colacompany.com,,,,,FMCG Food & Beverage,
-Mondelez,fmcg,,https://careers.mondelezinternational.com,,,,,FMCG Food & Beverage,
+Nestlé,fmcg,,https://careers.nestle.com,,,,,FMCG Food & Beverage,unknown
+Procter & Gamble,fmcg,,https://pgcareers.com,phenom,cdn.phenompeople.com,,,FMCG Food & Beverage,phenom
+Unilever,fmcg,,https://careers.unilever.com,workday,unilever|wd3|Unilever_Experienced_Professionals,,,FMCG Food & Beverage,workday
+PepsiCo,fmcg,,https://careers.pepsico.com,,,,,FMCG Food & Beverage,icims
+Coca-Cola,fmcg,,https://careers.coca-colacompany.com,workday,coke|wd1|coca-cola-careers,,,FMCG Food & Beverage,workday
+Mondelez,fmcg,,https://careers.mondelezinternational.com,phenom,phenompeople,,,FMCG Food & Beverage,phenom
 Mars,fmcg,,,,,,,FMCG Food & Beverage,
-Danone,fmcg,,https://careers.danone.com,,,,,FMCG Food & Beverage,
+Danone,fmcg,,https://careers.danone.com,,,,,FMCG Food & Beverage,unknown
 Kraft Heinz,fmcg,,,,,,,FMCG Food & Beverage,
 General Mills,fmcg,,,,,,,FMCG Food & Beverage,
 Colgate-Palmolive,fmcg,,,,,,,FMCG Food & Beverage,
-Reckitt,fmcg,,https://careers.reckitt.com,,,,,FMCG Food & Beverage,
-L'Oréal,fmcg,,https://careers.loreal.com,,,,,FMCG Food & Beverage,
-Henkel,fmcg,,https://careers.henkel.com,,,,,FMCG Food & Beverage,
+Reckitt,fmcg,,https://careers.reckitt.com,successfactors,rmkcdn.successfactors.com,,,FMCG Food & Beverage,successfactors
+L'Oréal,fmcg,,https://careers.loreal.com,,,,,FMCG Food & Beverage,unknown
+Henkel,fmcg,,https://careers.henkel.com,,,,,FMCG Food & Beverage,unknown
 Kimberly-Clark,fmcg,,,,,,,FMCG Food & Beverage,
 AB InBev,fmcg,,,,,,,FMCG Food & Beverage,
 Heineken,fmcg,,,,,,,FMCG Food & Beverage,
@@ -373,17 +373,17 @@ Tyson Foods,fmcg,,,,,,,FMCG Food & Beverage,
 JBS,fmcg,,,,,,,FMCG Food & Beverage,
 Cargill,fmcg,,,,,,,FMCG Food & Beverage,
 Philip Morris International,fmcg,,,,,,,FMCG Food & Beverage,
-Walmart,retail,,https://careers.walmart.com,,,,,Retail & E-commerce,
-Costco,retail,,https://careers.costco.com,,,,,Retail & E-commerce,
+Walmart,retail,,https://careers.walmart.com,,,,,Retail & E-commerce,unknown
+Costco,retail,,https://careers.costco.com,,,,,Retail & E-commerce,taleo
 Schwarz Group (Lidl),retail,,,,,,,Retail & E-commerce,
 Aldi,retail,,,,,,,Retail & E-commerce,
-Carrefour,retail,,https://career.carrefour.com,,,,,Retail & E-commerce,
-Tesco,retail,,https://tesco-careers.com,,,,,Retail & E-commerce,
+Carrefour,retail,,https://career.carrefour.com,,,,,Retail & E-commerce,unknown
+Tesco,retail,,https://tesco-careers.com,,,,,Retail & E-commerce,unknown
 Auchan,retail,,,,,,,Retail & E-commerce,
 Metro AG,retail,,,,,,,Retail & E-commerce,
 REWE Group,retail,,,,,,,Retail & E-commerce,
 Edeka,retail,,,,,,,Retail & E-commerce,
-IKEA,retail,,https://jobs.ikea.com,,,,,Retail & E-commerce,
+IKEA,retail,,https://jobs.ikea.com,,,,,Retail & E-commerce,unknown
 Inditex,retail,,https://inditexcareers.com,,,,,Retail & E-commerce,
 H&M,retail,,https://career.hm.com,,,,,Retail & E-commerce,
 Zara,retail,,,,,,,Retail & E-commerce,
