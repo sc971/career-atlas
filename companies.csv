@@ -564,27 +564,27 @@ DB Cargo,rail,,,,,,,Rail,
 Alstom,rail,,https://jobsearch.alstom.com,successfactors,jobsearch.alstom.com,,,Rail,successfactors
 Siemens Mobility,rail,,https://jobs.siemens.com,,,,,Rail,unknown
 Hitachi Rail,rail,,https://www.hitachirail.com/careers,,,,,Rail,unknown
-Stadler Rail,rail,,https://www.stadlerrail.com/en/career,,,,,Rail,
+Stadler Rail,rail,,https://www.stadlerrail.com/en/career,,,,,Rail,unknown
 Knorr-Bremse,rail,,,,,,,Rail,
 Wabtec,rail,,,,,,,Rail,
-CBRE,re,,https://careers.cbre.com,,,,,Real Estate,
-JLL,re,,https://careers.jll.com,,,,,Real Estate,
-Cushman & Wakefield,re,,https://careers.cushmanwakefield.com,,,,,Real Estate,
-Colliers,re,,https://careers.colliers.com,,,,,Real Estate,
-Savills,re,,https://www.savills.com/careers,,,,,Real Estate,
+CBRE,re,,https://careers.cbre.com,,,,,Real Estate,unknown
+JLL,re,,https://careers.jll.com,,,,,Real Estate,unknown
+Cushman & Wakefield,re,,https://careers.cushmanwakefield.com,workday,cw|wd1|External,,,Real Estate,workday
+Colliers,re,,https://careers.colliers.com,jsonld,careers.colliers.com,,,Real Estate,jsonld
+Savills,re,,https://www.savills.com/careers,,,,,Real Estate,unknown
 Knight Frank,re,,,,,,,Real Estate,
-Vonovia,re,,https://karriere.vonovia.de,,,,,Real Estate,
+Vonovia,re,,https://karriere.vonovia.de,,,,,Real Estate,unknown
 LEG Immobilien,re,,,,,,,Real Estate,
 Aroundtown,re,,,,,,,Real Estate,
 Deutsche Wohnen,re,,,,,,,Real Estate,
 Unibail-Rodamco-Westfield,re,,,,,,,Real Estate,
 Klépierre,re,,,,,,,Real Estate,
 Gecina,re,,,,,,,Real Estate,
-Prologis,re,,https://www.prologis.com/careers,,,,,Real Estate,
+Prologis,re,,https://www.prologis.com/careers,,,,,Real Estate,unknown
 Realty Income,re,,,,,,,Real Estate,
 Brookfield Properties,re,,,,,,,Real Estate,
 DWS,re,,,,,,,Real Estate,
-Blackstone Real Estate,re,,https://www.blackstone.com/careers,,,,,Real Estate,
+Blackstone Real Estate,re,,https://www.blackstone.com/careers,,,,,Real Estate,unknown
 Swiss Prime Site,re,,,,,,,Real Estate,
 CA Immo,re,,,,,,,Real Estate,
 PATRIZIA,re,,,,,,,Real Estate,
@@ -592,73 +592,73 @@ Wüstenrot Immobilien,re,,,,,,,Real Estate,
 STRABAG Real Estate,re,,,,,,,Real Estate,
 Skanska,re,,,,,,,Real Estate,
 Hines,re,,,,,,,Real Estate,
-The Walt Disney Company,media,,https://jobs.disneycareers.com,,,,,Media & Entertainment,
-Netflix,media,,https://jobs.netflix.com,,,,,Media & Entertainment,
-Warner Bros. Discovery,media,,https://careers.wbd.com,,,,,Media & Entertainment,
-Universal Music Group,media,,https://careers.universalmusic.com,,,,,Media & Entertainment,
-Sony,media,,https://www.sonyjobs.com,,,,,Media & Entertainment,
-Paramount,media,,https://careers.paramount.com,,,,,Media & Entertainment,
+The Walt Disney Company,media,,https://jobs.disneycareers.com,phenom,cdn.phenompeople.com,,,Media & Entertainment,phenom
+Netflix,media,,https://jobs.netflix.com,,,,,Media & Entertainment,unknown
+Warner Bros. Discovery,media,,https://careers.wbd.com,phenom,cdn.phenompeople.com,,,Media & Entertainment,phenom
+Universal Music Group,media,,https://careers.universalmusic.com,,,,,Media & Entertainment,unknown
+Sony,media,,https://www.sonyjobs.com,,,,,Media & Entertainment,unknown
+Paramount,media,,https://careers.paramount.com,successfactors,careers.paramount.com,,,Media & Entertainment,successfactors
 Fox Corporation,media,,,,,,,Media & Entertainment,
-Comcast,media,,https://jobs.comcast.com,,,,,Media & Entertainment,
+Comcast,media,,https://jobs.comcast.com,workday,comcast|wd115|Comcast_Careers,,,Media & Entertainment,workday
 NBCUniversal,media,,,,,,,Media & Entertainment,
-Spotify,media,,https://www.lifeatspotify.com/jobs,,,,,Media & Entertainment,
+Spotify,media,,https://www.lifeatspotify.com/jobs,,,,,Media & Entertainment,unknown
 Amazon MGM Studios,media,,,,,,,Media & Entertainment,
-Electronic Arts,media,,https://careers.ea.com,,,,,Media & Entertainment,
-Nintendo,media,,https://careers.nintendo.com,,,,,Media & Entertainment,
+Electronic Arts,media,,https://careers.ea.com,,,,,Media & Entertainment,unknown
+Nintendo,media,,https://careers.nintendo.com,,,,,Media & Entertainment,unknown
 Take-Two Interactive,media,,,,,,,Media & Entertainment,
-Ubisoft,media,,https://www.ubisoft.com/en-us/company/careers,,,,,Media & Entertainment,
-Bertelsmann,media,,https://www.bertelsmann.com/careers,,,,,Media & Entertainment,
-RTL Group,media,,https://www.rtlgroup.com/en/careers,,,,,Media & Entertainment,
+Ubisoft,media,,https://www.ubisoft.com/en-us/company/careers,,,,,Media & Entertainment,unknown
+Bertelsmann,media,,https://www.bertelsmann.com/careers,,,,,Media & Entertainment,unknown
+RTL Group,media,,https://www.rtlgroup.com/en/careers,,,,,Media & Entertainment,unknown
 Sky,media,,,,,,,Media & Entertainment,
-BBC,media,,https://careers.bbc.co.uk,,,,,Media & Entertainment,
+BBC,media,,https://careers.bbc.co.uk,successfactors,careers.bbc.co.uk,,,Media & Entertainment,successfactors
 ITV,media,,,,,,,Media & Entertainment,
 Canal+,media,,,,,,,Media & Entertainment,
 TikTok,media,,,,,,,Media & Entertainment,
 YouTube,media,,,,,,,Media & Entertainment,
-Pearson,edu,,https://pearson.jobs,,,,,Education,
+Pearson,edu,,https://pearson.jobs,oracle_hcm,hccz,,,Education,oracle_hcm
 Scholastic,edu,,,,,,,Education,
 McGraw Hill,edu,,,,,,,Education,
 Cengage,edu,,,,,,,Education,
-Wiley,edu,,https://careers.wiley.com,,,,,Education,
-Elsevier,edu,,https://www.elsevier.com/about/careers,,,,,Education,
-RELX,edu,,https://careers.relx.com,,,,,Education,
+Wiley,edu,,https://careers.wiley.com,,,,,Education,unknown
+Elsevier,edu,,https://www.elsevier.com/about/careers,workday,relx|wd3|ElsevierJobs,,,Education,workday
+RELX,edu,,https://careers.relx.com,,,,,Education,unknown
 Thomson Reuters,edu,,,,,,,Education,
-Duolingo,edu,,https://careers.duolingo.com,,,,,Education,
-Coursera,edu,,https://careers.coursera.org,,,,,Education,
-Udemy,edu,,https://about.udemy.com/careers/,,,,,Education,
+Duolingo,edu,,https://careers.duolingo.com,,,,,Education,unknown
+Coursera,edu,,https://careers.coursera.org,,,,,Education,unknown
+Udemy,edu,,https://about.udemy.com/careers/,,,,,Education,unknown
 Chegg,edu,,,,,,,Education,
 Khan Academy,edu,,,,,,,Education,
 Bertelsmann Education,edu,,,,,,,Education,
-EF Education First,edu,,https://careers.ef.com,,,,,Education,
+EF Education First,edu,,https://careers.ef.com,,,,,Education,unknown
 Kaplan,edu,,,,,,,Education,
 Instructure,edu,,,,,,,Education,
 Stride,edu,,,,,,,Education,
 Houghton Mifflin Harcourt,edu,,,,,,,Education,
 Cambridge University Press & Assessment,edu,,,,,,,Education,
-Oxford University Press,edu,,https://global.oup.com/careers,,,,,Education,
+Oxford University Press,edu,,https://global.oup.com/careers,,,,,Education,unknown
 University of Oxford,edu,,,,,,,Education,
 University of Cambridge,edu,,,,,,,Education,
 ETH Zurich,edu,,,,,,,Education,
 TU Munich,edu,,,,,,,Education,
-Veolia,util,,https://www.veolia.com/en/careers,,,,,"Water, Waste & Utilities",
-Suez,util,,https://www.suez.com/en/careers,,,,,"Water, Waste & Utilities",
-Waste Management,util,,https://careers.wm.com,,,,,"Water, Waste & Utilities",
-Republic Services,util,,https://jobs.republicservices.com,,,,,"Water, Waste & Utilities",
-Remondis,util,,https://www.remondis-karriere.de,,,,,"Water, Waste & Utilities",
-PreZero,util,,https://www.prezero.com/career,,,,,"Water, Waste & Utilities",
-Clean Harbors,util,,https://careers.cleanharbors.com,,,,,"Water, Waste & Utilities",
-GFL Environmental,util,,https://careers.gflenv.com,,,,,"Water, Waste & Utilities",
+Veolia,util,,https://www.veolia.com/en/careers,,,,,"Water, Waste & Utilities",unknown
+Suez,util,,https://www.suez.com/en/careers,,,,,"Water, Waste & Utilities",unknown
+Waste Management,util,,https://careers.wm.com,oracle_hcm,emcm,,,"Water, Waste & Utilities",oracle_hcm
+Republic Services,util,,https://jobs.republicservices.com,phenom,cdn.phenompeople.com,,,"Water, Waste & Utilities",phenom
+Remondis,util,,https://www.remondis-karriere.de,jsonld,remondis-karriere.de,,,"Water, Waste & Utilities",jsonld
+PreZero,util,,https://www.prezero.com/career,successfactors,jobs.prezero.de,,,"Water, Waste & Utilities",successfactors
+Clean Harbors,util,,https://careers.cleanharbors.com,oracle_hcm,epyc,,,"Water, Waste & Utilities",oracle_hcm
+GFL Environmental,util,,https://careers.gflenv.com,,,,,"Water, Waste & Utilities",unknown
 Biffa,util,,,,,,,"Water, Waste & Utilities",
 FCC Environment,util,,,,,,,"Water, Waste & Utilities",
 Aqua America (Essential Utilities),util,,,,,,,"Water, Waste & Utilities",
-American Water,util,,https://careers.amwater.com,,,,,"Water, Waste & Utilities",
-Severn Trent,util,,https://www.severntrent.com/careers,,,,,"Water, Waste & Utilities",
-United Utilities,util,,https://www.unitedutilities.com/careers,,,,,"Water, Waste & Utilities",
+American Water,util,,https://careers.amwater.com,,,,,"Water, Waste & Utilities",unknown
+Severn Trent,util,,https://www.severntrent.com/careers,successfactors,www.careers.severntrent.com,,,"Water, Waste & Utilities",successfactors
+United Utilities,util,,https://www.unitedutilities.com/careers,,,,,"Water, Waste & Utilities",talentlink
 Thames Water,util,,,,,,,"Water, Waste & Utilities",
-Ecolab,util,,https://jobs.ecolab.com,,,,,"Water, Waste & Utilities",
-Xylem,util,,https://www.xylem.com/en-us/careers,,,,,"Water, Waste & Utilities",
+Ecolab,util,,https://jobs.ecolab.com,phenom,cdn.phenompeople.com,,,"Water, Waste & Utilities",phenom
+Xylem,util,,https://www.xylem.com/en-us/careers,,,,,"Water, Waste & Utilities",unknown
 Pentair,util,,,,,,,"Water, Waste & Utilities",
-Grundfos,util,,https://www.grundfos.com/careers,,,,,"Water, Waste & Utilities",
+Grundfos,util,,https://www.grundfos.com/careers,,,,,"Water, Waste & Utilities",unknown
 Badger Meter,util,,,,,,,"Water, Waste & Utilities",
 Aguas de Barcelona (Agbar),util,,,,,,,"Water, Waste & Utilities",
 Wessex Water,util,,,,,,,"Water, Waste & Utilities",
